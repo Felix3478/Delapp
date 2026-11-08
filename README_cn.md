@@ -4,8 +4,8 @@ Windows下删除文件和文件夹的简易工具。
 
 ## 需求
 
-- Windows 7或更高
-- [.NET Framework 4.8 运行时](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net48)或更高
+- Windows 10 20H2 或更高版本，或 Windows 11
+- [.NET Framework 4.8.1 运行时](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net481)
 
 ## 开始使用
 

@@ -6,8 +6,8 @@ A simple tool to delete files and folders in Windows.
 
 ## Requirement
 
-- Windows 7 or later
-- [.NET Framework 4.8 Runtime or later](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net48)
+- Windows 10 version 20H2 or later, or Windows 11
+- [.NET Framework 4.8.1 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net481)
 
 ## Getting Started
 
